@@ -1,24 +1,36 @@
 ---
 layout: home
-title: "Tímový Projekt"
+title: "Tímový Projekt 🚦"
 ---
 
-# Tímový Projekt  
-## Virtuálna križovatka - systém koordinovaného riadenia autonómnych vozidiel na križovatkách
-**Vedúci:** Ing. Jozef Juraško  
+# Virtuálna križovatka  
+### _Koordinovaný systém pre autonómne vozidlá v pohybe_
+
+---
+
+🫡 **Vedúci projektu:** Ing. **Jozef Juraško**
+
+---
+
+## Tím 7️⃣
+
+Sme partia technicky nadšených študentov z **FIIT STU**, ktorí spájajú kreativitu, vývojárske skúsenosti a lásku k inováciám.  
+Spolupracujeme na vývoji inteligentného systému, ktorý pomáha autonómnym vozidlám **komunikovať, predvídať a bezpečne prechádzať križovatkami**. 
 
 ---
 
 ## Členovia tímu
 
-- **[Dominik Mifkovič](https://github.com/dominik-mifkovic)**
-- **[Dmytro Dzhuha](https://github.com/dmytro-dzhuha)**
-- **[Ján Sližik](https://github.com/jan-slizik)**
-- **[Bruno Kristian](https://github.com/bruno-kristian)**
-- **[Peter Novák](https://github.com/peter-novak)**
-- **[Martin Horváth](https://github.com/martin-horvath)**
+| Meno                   | GitHub                                         |
+| :--------------------- | :--------------------------------------------- |
+| Dominik Hajko          | [@XDhajko](https://github.com/XDhajko)         |
+| Martin Horský          | [@MartinH2k3](https://github.com/MartinH2k3)   |
+| Samuel Gabriel Galgóci | [@SamoGG](https://github.com/SamoGG)           |
+| Maryna Kolesnykova     | [@maryna0107](https://github.com/maryna0107)   |
+| Bruno Kristián         | [@Brunokristi](https://github.com/Brunokristi) |
+| Anna Skosar            | [@annaskosar](https://github.com/annaskosar)   |
 
 ---
 
-## Týždenné zápisnice
-\
+## 🥱 Týždenné zápisnice
+> Tu sú naše zápisky a progres zo stretnutí
