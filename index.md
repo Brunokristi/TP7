@@ -8,15 +8,15 @@ title: " "
 
 ---
 
-## 🫡 Vedúci projektu:
+## Vedúci projektu 🫡
 Ing. Jozef Juraško
 
 ---
 
 ## Tím 7️⃣
 
-Sme partia technicky nadšených študentov z **FIIT STU**, ktorí spájajú kreativitu, vývojárske skúsenosti a lásku k inováciám.  
-Spolupracujeme na vývoji inteligentného systému, ktorý pomáha autonómnym vozidlám **komunikovať, predvídať a bezpečne prechádzať križovatkami**. 
+Sme partia technicky nadšených študentov z FIIT STU, ktorí spájajú kreativitu, vývojárske skúsenosti a lásku k inováciám.  
+Spolupracujeme na vývoji inteligentného systému, ktorý pomáha autonómnym vozidlám komunikovať, predvídať a bezpečne prechádzať križovatkami. 
 
 
 | Meno                   | GitHub                                         |
@@ -30,4 +30,4 @@ Spolupracujeme na vývoji inteligentného systému, ktorý pomáha autonómnym v
 
 ---
 
-## 🥱 Týždenné zápisnice
+## Týždenné zápisnice 🥱
