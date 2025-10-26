@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "&nbsp;"
 ---
 
 # Virtuálna križovatka  
@@ -32,4 +33,3 @@ Spolupracujeme na vývoji inteligentného systému, ktorý pomáha autonómnym v
 ---
 
 ## 🥱 Týždenné zápisnice
-> Tu sú naše zápisky a progres zo stretnutí
