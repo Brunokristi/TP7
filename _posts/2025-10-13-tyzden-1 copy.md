@@ -3,27 +3,22 @@ title: "Zápisnica č. 1"
 date: 2025-10-13
 ---
 
-## Dátum
->13. 10. 2025
+### Dochádzka
 
----
-
-## Dochádzka
-
-| Meno                       | Prítomný | Dôvod | Rola |
-| :------------------------- | :------: | :---- | :--- |
-| **Dominik Hajko**          |    ✅     |       | TBD  |
-| **Martin Horský**          |    ✅     |       | TBD  |
-| **Samuel Gabriel Galgóci** |    ✅     |       | TBD  |
-| **Maryna Kolesnykova**     |    ✅     |       | TBD  |
-| **Bruno Kristián**         |    ✅     |       | TBD  |
-| **Anna Skosar**            |    ✅     |       | TBD  |
+| Meno | Prítomný | Rola |
+| :--- | :------: || :-- |
+| **Dominik Hajko**          |    ✅     | TBD  |
+| **Martin Horský**          |    ✅     | TBD  |
+| **Samuel Gabriel Galgóci** |    ✅     | TBD  |
+| **Maryna Kolesnykova**     |    ✅     | TBD  |
+| **Bruno Kristián**         |    ✅     | TBD  |
+| **Anna Skosar**            |    ✅     | TBD  |
 
 > *Zapisovač sa bude rotovať po týždňoch.*
 
 ---
 
-## Zhrnutie stretnutia
+### Zhrnutie stretnutia
 
 - Oboznámenie s problematikou  
 - Vytvorenie komunikačnej skupiny  
@@ -35,7 +30,7 @@ date: 2025-10-13
 
 ---
 
-## Úlohy do ďalšieho stretnutia
+### Úlohy do ďalšieho stretnutia
 
 - Spustenie projektu u každého v skupine  
 - Informovanie sa o použitých technológiách **SUMO** a iných  

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "&nbsp;"
+title: " "
 ---
 
 # Virtuálna križovatka  
@@ -8,7 +8,8 @@ title: "&nbsp;"
 
 ---
 
-🫡 **Vedúci projektu:** Ing. **Jozef Juraško**
+## 🫡 Vedúci projektu:
+Ing. Jozef Juraško
 
 ---
 
@@ -17,9 +18,6 @@ title: "&nbsp;"
 Sme partia technicky nadšených študentov z **FIIT STU**, ktorí spájajú kreativitu, vývojárske skúsenosti a lásku k inováciám.  
 Spolupracujeme na vývoji inteligentného systému, ktorý pomáha autonómnym vozidlám **komunikovať, predvídať a bezpečne prechádzať križovatkami**. 
 
----
-
-## Členovia tímu
 
 | Meno                   | GitHub                                         |
 | :--------------------- | :--------------------------------------------- |
