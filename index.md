@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Tímový Projekt 🚦"
 ---
 
 # Virtuálna križovatka  
